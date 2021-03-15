@@ -7,7 +7,7 @@
 💪 My strengths: 
  - CSS that works flawlessly across browsers and devices
  - Refactoring and optimizing styling puzzles on large scale projects
- - Wrigin semantic markup meeting or exceeding AA grade from WCAG 2.1.  
+ - Writing semantic markup meeting/exceeding AA grade from WCAG 2.1.  
 
 
 
