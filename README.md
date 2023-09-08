@@ -1,14 +1,15 @@
 👋 Hi, I’m Yasen (Jason) Vasilev  
 
-👨‍💻 Copenhagen based front-end developer  
+👨‍💻 Copenhagen-based front-end developer  
 
-🌱 Currently learning React, Contentful, GraphQL, Gatsby, Hugo, Jekyll  
+🌱 Currently learning React, Typescript, SSG
 
 💪 Strengths in: 
  - CSS that works flawlessly across browsers and devices
- - Refactoring and optimizing styling puzzles on large scale projects
- - Writing semantic markup that meets/exceeds AA grade from WCAG 2.1.  
+ - Refactoring and optimizing legacy SCSS puzzles
+ - Semantic markup that meets/exceeds AA grade WCAG 2.1.  
  - A11y audits
+ - Web and design optimizations for sustainability
 
 
 
